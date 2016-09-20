@@ -1,0 +1,23 @@
+{
+  "name": "bodewell-mixer",
+  "version": "0.0.1",
+  "description": "mixin helper for Bodewell system monitor",
+  "main": "mixer.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richRemer/bodewell-mixer.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/bodewell-mixer/issues"
+  },
+  "homepage": "https://github.com/richRemer/bodewell-mixer#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.0.2"
+  }
+}
